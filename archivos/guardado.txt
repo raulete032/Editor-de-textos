@@ -1,0 +1,9 @@
+- Hola mundo como va todo?
+- Pues la verdad es que muy bien, esta es mi primera prueba de abrir un archivo
+- Y que tal te ha salido?
+- Pues creo que bien
+Hola estoy guardado Hola estoy guardado 
+
+Adios a todo el mundo
+
+edito el horlaGuardado
